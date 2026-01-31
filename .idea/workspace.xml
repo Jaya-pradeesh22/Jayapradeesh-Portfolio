@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eeca0bf-9520-433d-85d8-03462208f830" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/resume/Jayapradeesh_S_L_Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/resume/Jayapradeesh_S_L_Resume.pdf" afterDir="false" />
+    <list default="true" id="6eeca0bf-9520-433d-85d8-03462208f830" name="Changes" comment="Resume is updated with current portfolio link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +69,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769834719426</updated>
-      <workItem from="1769834724384" duration="10334000" />
+      <workItem from="1769834724384" duration="11002000" />
     </task>
+    <task id="LOCAL-00001" summary="Resume is updated with current portfolio link">
+      <option name="closed" value="true" />
+      <created>1769847068174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769847068174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resume is updated with current portfolio link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resume is updated with current portfolio link" />
   </component>
 </project>
