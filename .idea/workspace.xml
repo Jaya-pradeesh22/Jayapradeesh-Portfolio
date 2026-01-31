@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eeca0bf-9520-433d-85d8-03462208f830" name="Changes" comment="" />
+    <list default="true" id="6eeca0bf-9520-433d-85d8-03462208f830" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/resume/Jayapradeesh_S_L_Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/resume/Jayapradeesh_S_L_Resume.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jaya-pradeesh22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jaya-pradeesh22/Jayapradeesh-Portfolio.git",
+    "accountId": "5f0ddbff-5cbf-4b58-b9d9-1e8dc320b055"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -30,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
@@ -50,11 +68,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769834719426</updated>
-      <workItem from="1769834724384" duration="9692000" />
+      <workItem from="1769834724384" duration="10334000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
